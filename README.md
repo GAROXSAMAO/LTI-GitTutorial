@@ -91,12 +91,15 @@ Here, you can insert your repository to your own GitHub account, or you can push
 > Hanif's LTI's Internship Project, Progress Report #2  
 >> `Project Link:` [Hanif's Project](Project_Hanif/)
 
-#### 🟡 「７」
+#### 🟢 「７」
 
-- [Full Name](https://www.google.com) `[S.E. Internship Member of LTI, 2024/2025]`
+- [Darla Gempita Darris Purba](https://github.com/lyca-byte) `[S.E. Internship Member of LTI, 2024/2025]`
 
-> [DESCRIPTION]  
->> `Project Link:` [Project Title](https://www.google.com)
+> Project 1
+>> `Project Link:` [Password Generator](https://www.google.com)
+
+> Project 2
+>> `Project Link:` [Picture Color Customization](https://www.google.com)
 
 #### 🟡 「８」
 

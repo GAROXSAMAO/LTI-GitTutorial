@@ -23,21 +23,21 @@ Here, you can insert your repository to your own GitHub account, or you can push
 
 #### 「１」
 
-- [Muhammad Gazali](https://github.com/xagafax) `[Member To Be Software Engineers]`
+- [Muhammad Gazali](https://github.com/xagafax) `[S.E. Internship Member of LTI, 2024/2025]`
 
 > [This GUI-based application, developed with PyQt6, simplifies access to websites and installed programs. Users can enter a website URL and open it directly in their default browser with a single click]  
 > Project Link: [Clicky](https://github.com/xagafax/belajar)
 
 #### 「２」
 
-- [Muhammad Raditya Dwi Putra](https://github.com/petorikooru) `[Member To Be Software Engineers]`
+- [Muhammad Raditya Dwi Putra](https://github.com/petorikooru) `[S.E. Internship Member of LTI, 2024/2025]`
 
 > [Welcome to Video to Image Converter (such a generic name i know). With this program, you can convert a video to frames as many as you like! No more screenshot spamming the video!]  
 > Project Link: [v2i_converter](https://github.com/petorikooru/v2i_converter)
 
 #### 「３」
 
-- [Juan Pratama Harianja](https://github.com/juuneverseen) `[Member To Be Software Engineers]`
+- [Juan Pratama Harianja](https://github.com/juuneverseen) `[S.E. Internship Member of LTI, 2024/2025]`
 
 > [This program is a Video to Image Converter built using PyQt6 and OpenCV. It allows users to select a video file (in formats like MP4, AVI, or MOV), and the program will convert the video into individual frames (images). These images are saved as PNG files, one for each frame at regular intervals.]  
 > Project Link: [Video to Image Converter](https://github.com/juuneverseen/My_Project/tree/main/Tugas_Bonus)
@@ -47,86 +47,84 @@ Here, you can insert your repository to your own GitHub account, or you can push
 
 #### 「４」
 
-- [Lintang Yoga Wistara](https://github.com/linseayw) `[Member To Be Software Engineers]`
+- [Lintang Yoga Wistara](https://github.com/linseayw) `[S.E. Internship Member of LTI, 2024/2025]`
 > MY INTERNSHIP PROJECT LTI  
 > Project Link: [Video to Image Converter](https://github.com/linseayw/testLTI/tree/c514985472c1eb429427dd7e2684d28e43b04c53/Video%20to%20Image%20Converter)  
 > Project Link[Color image to black and white image converter](https://github.com/linseayw/testLTI/tree/b062fd9f08e483deb16c8d42358c1c3835fbdd87/Video%20to%20Image%20Converter)
 
-#### 「４」
-
 #### 「５」
 
-- [Full Name](https://www.google.com) `[Member To Be...]`
+- [Lucky Triannika Nurhakiman]([https://www.google.com](https://github.com/triannika)) `[S.E. Internship Member of LTI, 2024/2025]`
 
 > [DESCRIPTION]  
-> Project Link: [Project Title](https://www.google.com)
+> Project Link: [Mengupload tugas 2]([https://www.google.com](https://github.com/triannika/LTI-GitTutorial/tree/master/Triannika))
 
 #### 「６」
 
-- [Full Name](https://www.google.com) `[Member To Be...]`
+- [Full Name](https://www.google.com) `[S.E. Internship Member of LTI, 2024/2025]`
 
 > [DESCRIPTION]  
 > Project Link: [Project Title](https://www.google.com)
 
 #### 「７」
 
-- [Full Name](https://www.google.com) `[Member To Be...]`
+- [Full Name](https://www.google.com) `[S.E. Internship Member of LTI, 2024/2025]`
 
 > [DESCRIPTION]  
 > Project Link: [Project Title](https://www.google.com)
 
 #### 「８」
 
-- [Full Name](https://www.google.com) `[Member To Be...]`
+- [Full Name](https://www.google.com) `[S.E. Internship Member of LTI, 2024/2025]`
 
 > [DESCRIPTION]  
 > Project Link: [Project Title](https://www.google.com)
 
 #### 「９」
 
-- [Full Name](https://www.google.com) `[Member To Be...]`
+- [Full Name](https://www.google.com) `[S.E. Internship Member of LTI, 2024/2025]`
 
 > [DESCRIPTION]  
 > Project Link: [Project Title](https://www.google.com)
 
 #### 「１０」
 
-- [Full Name](https://www.google.com) `[Member To Be...]`
+- [Full Name](https://www.google.com) `[S.E. Internship Member of LTI, 2024/2025]`
 
 > [DESCRIPTION]  
 > Project Link: [Project Title](https://www.google.com)
 
 #### 「１１」
 
-- [Full Name](https://www.google.com) `[Member To Be...]`
+- [Full Name](https://www.google.com) `[S.E. Internship Member of LTI, 2024/2025]`
 
 > [DESCRIPTION]  
 > Project Link: [Project Title](https://www.google.com)
 
 #### 「１２」
 
-- [Full Name](https://www.google.com) `[Member To Be...]`
+- [Full Name](https://www.google.com) `[S.E. Internship Member of LTI, 2024/2025]`
 
 > [DESCRIPTION]  
 > Project Link: [Project Title](https://www.google.com)
 
 #### 「１３」
 
-- [Full Name](https://www.google.com) `[Member To Be...]`
+- [Full Name](https://www.google.com) `[S.E. Internship Member of LTI, 2024/2025]`
 
 > [DESCRIPTION]  
 > Project Link: [Project Title](https://www.google.com)
 
 #### 「１４」
 
-- [Full Name](https://www.google.com) `[Member To Be...]`
+- [Full Name](https://www.google.com) `[S.E. Internship Member of LTI, 2024/2025]`
 
 > [DESCRIPTION]  
 > Project Link: [Project Title](https://www.google.com)
 
 #### 「１５」
 
-- [Full Name](https://www.google.com) `[Member To Be...]`
+- [Full Name](https://www.google.com) `[S.E. Internship Member of LTI, 2024/2025]`
 
 > [DESCRIPTION]  
 > Project Link: [Project Title](https://www.google.com)

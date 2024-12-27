@@ -3,7 +3,6 @@
 ## Git and GitHub Tutorial
 
 ---
-
 ## Software Engineers Introduction
 
 - [I Made Adhika Dananjaya](https://github.com/kingofaris) `[Assitant - DAY]`
@@ -31,10 +30,10 @@ Here, you can insert your repository to your own GitHub account, or you can push
 
 #### 「２」
 
-- [Full Name](https://www.google.com) `[Member To Be...]`
+- [Muhammad Raditya Dwi Putra](https://github.com/petorikooru) `[Member To Be Software Engineers]`
 
 > [DESCRIPTION]  
-> Project Link: [Project Title](https://www.google.com)
+> Project Link: [v2i_converter](https://github.com/petorikooru/v2i_converter)
 
 #### 「３」
 

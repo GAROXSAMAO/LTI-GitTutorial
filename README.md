@@ -3,7 +3,6 @@
 ## Git and GitHub Tutorial
 
 ---
-
 ## Software Engineers Introduction
 
 - [I Made Adhika Dananjaya](https://github.com/kingofaris) `[Assitant - DAY]`
@@ -31,24 +30,29 @@ Here, you can insert your repository to your own GitHub account, or you can push
 
 #### 「２」
 
-- [Full Name](https://www.google.com) `[Member To Be...]`
+- [Muhammad Raditya Dwi Putra](https://github.com/petorikooru) `[Member To Be Software Engineers]`
 
-> [DESCRIPTION]  
-> Project Link: [Project Title](https://www.google.com)
+> [Welcome to Video to Image Converter (such a generic name i know). With this program, you can convert a video to frames as many as you like! No more screenshot spamming the video!]  
+> Project Link: [v2i_converter](https://github.com/petorikooru/v2i_converter)
 
 #### 「３」
 
-- [Full Name](https://www.google.com) `[Member To Be...]`
+- [Juan Pratama Harianja](https://github.com/juuneverseen) `[Member To Be Software Engineers]`
 
-> [DESCRIPTION]  
-> Project Link: [Project Title](https://www.google.com)
+> [This program is a Video to Image Converter built using PyQt6 and OpenCV. It allows users to select a video file (in formats like MP4, AVI, or MOV), and the program will convert the video into individual frames (images). These images are saved as PNG files, one for each frame at regular intervals.]  
+> Project Link: [Video to Image Converter](https://github.com/juuneverseen/My_Project/tree/main/Tugas_Bonus)
+
+> [This program is a GUI-based application developed using PyQt6, which allows users to easily open various applications and websites. Users can enter a website URL and click a button to open it in the default browser. Additionally, this application provides direct access to other applications installed on the computer, such as File Explorer, Microsoft Word, Canva, and Arduino IDE. This program is especially useful for users who frequently switch between different applications and websites without having to open each application individually.]
+> Project Link: [Web Browser with Access to Multiple Applications](https://github.com/juuneverseen/My_Project/tree/main/Tugas_Normal)
 
 #### 「４」
 
-- [Full Name](https://www.google.com) `[Member To Be...]`
+- [Lintang Yoga Wistara](https://github.com/linseayw) `[Member To Be Software Engineers]`
+> MY INTERNSHIP PROJECT LTI  
+> Project Link: [Video to Image Converter](https://github.com/linseayw/testLTI/tree/c514985472c1eb429427dd7e2684d28e43b04c53/Video%20to%20Image%20Converter)  
+> Project Link[Color image to black and white image converter](https://github.com/linseayw/testLTI/tree/b062fd9f08e483deb16c8d42358c1c3835fbdd87/Video%20to%20Image%20Converter)
 
-> [DESCRIPTION]  
-> Project Link: [Project Title](https://www.google.com)
+#### 「４」
 
 #### 「５」
 

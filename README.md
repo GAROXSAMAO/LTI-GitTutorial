@@ -37,10 +37,13 @@ Here, you can insert your repository to your own GitHub account, or you can push
 
 #### 「３」
 
-- [Full Name](https://www.google.com) `[Member To Be...]`
+- [Juan Pratama Harianja]([https://www.google.com](https://github.com/juuneverseen)) `[Member To Be Software Engineers]`
 
-> [DESCRIPTION]  
-> Project Link: [Project Title](https://www.google.com)
+> [This program is a Video to Image Converter built using PyQt6 and OpenCV. It allows users to select a video file (in formats like MP4, AVI, or MOV), and the program will convert the video into individual frames (images). These images are saved as PNG files, one for each frame at regular intervals.]  
+> Project Link: [Video to Image Converter](https://github.com/juuneverseen/My_Project/tree/main/Tugas_Bonus)
+
+> [This program is a GUI-based application developed using PyQt6, which allows users to easily open various applications and websites. Users can enter a website URL and click a button to open it in the default browser. Additionally, this application provides direct access to other applications installed on the computer, such as File Explorer, Microsoft Word, Canva, and Arduino IDE. This program is especially useful for users who frequently switch between different applications and websites without having to open each application individually.]
+> Project Link: [Web Browser with Access to Multiple Applications](https://github.com/juuneverseen/My_Project/tree/main/Tugas_Normal)
 
 #### 「４」
 

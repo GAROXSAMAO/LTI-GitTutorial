@@ -32,7 +32,7 @@ Here, you can insert your repository to your own GitHub account, or you can push
 
 - [Muhammad Raditya Dwi Putra](https://github.com/petorikooru) `[Member To Be Software Engineers]`
 
-> [DESCRIPTION]  
+> [Welcome to Video to Image Converter (such a generic name i know). With this program, you can convert a video to frames as many as you like! No more screenshot spamming the video!]  
 > Project Link: [v2i_converter](https://github.com/petorikooru/v2i_converter)
 
 #### 「３」

@@ -14,7 +14,7 @@
 - [Immanuel Eben Haezer Joseph Aletheia](https://github.com/kingofaris) `[Assitant - NUE]`
 
 > Let's study together, part 2!  
-> Project Link: [My Portfolio](eintswavex.github.io)
+> Project Link: [My Portfolio](https://eintswavex.github.io)
 
 ---
 
@@ -24,108 +24,108 @@ Here, you can insert your repository to your own GitHub account, or you can push
 
 #### 「１」
 
-- [{ Muhammad Gazali }](https://github.com/xagafax) `[Member To Be Software Engineers]`
+- [Muhammad Gazali](https://github.com/xagafax) `[Member To Be Software Engineers]`
 
 > [This GUI-based application, developed with PyQt6, simplifies access to websites and installed programs. Users can enter a website URL and open it directly in their default browser with a single click]  
-> Project Link: [{ Clicky }](https://github.com/xagafax/belajar)
+> Project Link: [Clicky](https://github.com/xagafax/belajar)
 
 #### 「２」
 
-- [{ Full Name }](https://www.google.com) `[Member To Be...]`
+- [Full Name](https://www.google.com) `[Member To Be...]`
 
 > [DESCRIPTION]  
-> Project Link: [{ Project Title }](https://www.google.com)
+> Project Link: [Project Title](https://www.google.com)
 
 #### 「３」
 
-- [{ Full Name }](https://www.google.com) `[Member To Be...]`
+- [Full Name](https://www.google.com) `[Member To Be...]`
 
 > [DESCRIPTION]  
-> Project Link: [{ Project Title }](https://www.google.com)
+> Project Link: [Project Title](https://www.google.com)
 
 #### 「４」
 
-- [{ Full Name }](https://www.google.com) `[Member To Be...]`
+- [Full Name](https://www.google.com) `[Member To Be...]`
 
 > [DESCRIPTION]  
-> Project Link: [{ Project Title }](https://www.google.com)
+> Project Link: [Project Title](https://www.google.com)
 
 #### 「５」
 
-- [{ Full Name }](https://www.google.com) `[Member To Be...]`
+- [Full Name](https://www.google.com) `[Member To Be...]`
 
 > [DESCRIPTION]  
-> Project Link: [{ Project Title }](https://www.google.com)
+> Project Link: [Project Title](https://www.google.com)
 
 #### 「６」
 
-- [{ Full Name }](https://www.google.com) `[Member To Be...]`
+- [Full Name](https://www.google.com) `[Member To Be...]`
 
 > [DESCRIPTION]  
-> Project Link: [{ Project Title }](https://www.google.com)
+> Project Link: [Project Title](https://www.google.com)
 
 #### 「７」
 
-- [{ Full Name }](https://www.google.com) `[Member To Be...]`
+- [Full Name](https://www.google.com) `[Member To Be...]`
 
 > [DESCRIPTION]  
-> Project Link: [{ Project Title }](https://www.google.com)
+> Project Link: [Project Title](https://www.google.com)
 
 #### 「８」
 
-- [{ Full Name }](https://www.google.com) `[Member To Be...]`
+- [Full Name](https://www.google.com) `[Member To Be...]`
 
 > [DESCRIPTION]  
-> Project Link: [{ Project Title }](https://www.google.com)
+> Project Link: [Project Title](https://www.google.com)
 
 #### 「９」
 
-- [{ Full Name }](https://www.google.com) `[Member To Be...]`
+- [Full Name](https://www.google.com) `[Member To Be...]`
 
 > [DESCRIPTION]  
-> Project Link: [{ Project Title }](https://www.google.com)
+> Project Link: [Project Title](https://www.google.com)
 
 #### 「１０」
 
-- [{ Full Name }](https://www.google.com) `[Member To Be...]`
+- [Full Name](https://www.google.com) `[Member To Be...]`
 
 > [DESCRIPTION]  
-> Project Link: [{ Project Title }](https://www.google.com)
+> Project Link: [Project Title](https://www.google.com)
 
 #### 「１１」
 
-- [{ Full Name }](https://www.google.com) `[Member To Be...]`
+- [Full Name](https://www.google.com) `[Member To Be...]`
 
 > [DESCRIPTION]  
-> Project Link: [{ Project Title }](https://www.google.com)
+> Project Link: [Project Title](https://www.google.com)
 
 #### 「１２」
 
-- [{ Full Name }](https://www.google.com) `[Member To Be...]`
+- [Full Name](https://www.google.com) `[Member To Be...]`
 
 > [DESCRIPTION]  
-> Project Link: [{ Project Title }](https://www.google.com)
+> Project Link: [Project Title](https://www.google.com)
 
 #### 「１３」
 
-- [{ Full Name }](https://www.google.com) `[Member To Be...]`
+- [Full Name](https://www.google.com) `[Member To Be...]`
 
 > [DESCRIPTION]  
-> Project Link: [{ Project Title }](https://www.google.com)
+> Project Link: [Project Title](https://www.google.com)
 
 #### 「１４」
 
-- [{ Full Name }](https://www.google.com) `[Member To Be...]`
+- [Full Name](https://www.google.com) `[Member To Be...]`
 
 > [DESCRIPTION]  
-> Project Link: [{ Project Title }](https://www.google.com)
+> Project Link: [Project Title](https://www.google.com)
 
 #### 「１５」
 
-- [{ Full Name }](https://www.google.com) `[Member To Be...]`
+- [Full Name](https://www.google.com) `[Member To Be...]`
 
 > [DESCRIPTION]  
-> Project Link: [{ Project Title }](https://www.google.com)
+> Project Link: [Project Title](https://www.google.com)
 
 ---
 

@@ -33,7 +33,7 @@ Here, you can insert your repository to your own GitHub account, or you can push
 
 ---
 
-### S.E. Intership Members of LTI, 2024/2025: 15 Member(s)
+### S.E. Internship Members of LTI, 2024/2025: 15 Member(s)
 
 #### 🟢 「１」
 

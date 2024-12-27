@@ -37,7 +37,7 @@ Here, you can insert your repository to your own GitHub account, or you can push
 
 #### 「３」
 
-- [Juan Pratama Harianja]([https://www.google.com](https://github.com/juuneverseen)) `[Member To Be Software Engineers]`
+- [Juan Pratama Harianja](https://github.com/juuneverseen) `[Member To Be Software Engineers]`
 
 > [This program is a Video to Image Converter built using PyQt6 and OpenCV. It allows users to select a video file (in formats like MP4, AVI, or MOV), and the program will convert the video into individual frames (images). These images are saved as PNG files, one for each frame at regular intervals.]  
 > Project Link: [Video to Image Converter](https://github.com/juuneverseen/My_Project/tree/main/Tugas_Bonus)
@@ -47,10 +47,12 @@ Here, you can insert your repository to your own GitHub account, or you can push
 
 #### 「４」
 
-- [Full Name](https://www.google.com) `[Member To Be...]`
+- [Lintang Yoga Wistara](https://github.com/linseayw) `[Member To Be Software Engineers]`
+> MY INTERNSHIP PROJECT LTI  
+> Project Link: [Video to Image Converter](https://github.com/linseayw/testLTI/tree/c514985472c1eb429427dd7e2684d28e43b04c53/Video%20to%20Image%20Converter)  
+> Project Link[Color image to black and white image converter](https://github.com/linseayw/testLTI/tree/b062fd9f08e483deb16c8d42358c1c3835fbdd87/Video%20to%20Image%20Converter)
 
-> [DESCRIPTION]  
-> Project Link: [Project Title](https://www.google.com)
+#### 「４」
 
 #### 「５」
 

@@ -96,10 +96,10 @@ Here, you can insert your repository to your own GitHub account, or you can push
 - [Darla Gempita Darris Purba](https://github.com/lyca-byte) `[S.E. Internship Member of LTI, 2024/2025]`
 
 > Project 1
->> `Project Link:` [Password Generator](https://www.google.com)
+>> `Project Link:` [Password Generator](https://github.com/lyca-byte/LTI-GitTutorial/tree/master/Project_Darla/Generator%20Password)
 
 > Project 2
->> `Project Link:` [Picture Color Customization](https://www.google.com)
+>> `Project Link:` [Picture Color Customization](https://github.com/lyca-byte/LTI-GitTutorial/tree/master/Project_Darla/Picture%20Color%20Customization)
 
 #### 🟡 「８」
 

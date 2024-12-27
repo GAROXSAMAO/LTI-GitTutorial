@@ -11,7 +11,7 @@
 - [I Made Adhika Dananjaya](https://github.com/kingofaris) `[S.E. Assitant of LTI, 2024/2025 - DAY]`
 
 > Let's study together!  
-> Project Link: [Dummy Test - Weekly Report](https://github.com/kingofaris/weekly-report)
+>> `Project Link:` [Dummy Test - Weekly Report](https://github.com/kingofaris/weekly-report)
 
 - [Immanuel Eben Haezer Joseph Aletheia](https://github.com/EintsWaveX) `[S.E. Assitant of LTI, 2024/2025 - NUE]`
 
@@ -81,15 +81,15 @@ Here, you can insert your repository to your own GitHub account, or you can push
 
 - [Lucky Triannika Nurhakiman]([https://www.google.com](https://github.com/triannika)) `[S.E. Internship Member of LTI, 2024/2025]`
 
-> Lucky's LTI's Internship Project, Progress Report #2  
->> `Project Link:` [Triannika's Project](Triannika/)
+> Triannika's LTI's Internship Project, Progress Report #2  
+>> `Project Link:` [Triannika's Project](Project_Triannika/)
 
-#### 🟡 「６」
+#### 🟢 「６」
 
-- [Full Name](https://www.google.com) `[S.E. Internship Member of LTI, 2024/2025]`
+- [Hanif Mundzir Robbani](https://github.com/HanifmnzrR1140) `[S.E. Internship Member of LTI, 2024/2025]`
 
-> [DESCRIPTION]  
->> `Project Link:` [Project Title](https://www.google.com)
+> Hanif's LTI's Internship Project, Progress Report #2  
+>> `Project Link:` [Hanif's Project](Project_Hanif/)
 
 #### 🟡 「７」
 

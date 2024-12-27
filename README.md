@@ -24,10 +24,10 @@ Here, you can insert your repository to your own GitHub account, or you can push
 
 #### 「１」
 
-- [{ Full Name }](https://www.google.com) `[Member To Be...]`
+- [{ Muhammad Gazali }](https://github.com/xagafax) `[Member To Be Software Engineers]`
 
-> [DESCRIPTION]  
-> Project Link: [{ Project Title }](https://www.google.com)
+> [This GUI-based application, developed with PyQt6, simplifies access to websites and installed programs. Users can enter a website URL and open it directly in their default browser with a single click]  
+> Project Link: [{ Clicky }](https://github.com/xagafax/belajar)
 
 #### 「２」
 

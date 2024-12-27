@@ -38,10 +38,10 @@ Here, you can insert your repository to your own GitHub account, or you can push
 
 #### 「３」
 
-- [Full Name](https://www.google.com) `[Member To Be...]`
+- [Lucky Triannika Nurhakiman]([https://www.google.com](https://github.com/triannika)) `[Member To Be...]`
 
 > [DESCRIPTION]  
-> Project Link: [Project Title](https://www.google.com)
+> Project Link: [Mengupload tugas 2]([https://www.google.com](https://github.com/triannika/LTI-GitTutorial/tree/master/Triannika))
 
 #### 「４」
 

@@ -105,12 +105,12 @@ Here, you can insert your repository to your own GitHub account, or you can push
 > Darla's LTI's Internship Project, Progress Report #2  
 >> `Project Link:` [Picture Color Customization](https://github.com/lyca-byte/LTI-GitTutorial/tree/master/Project_Darla/Picture%20Color%20Customization)
 
-#### 🟡 「８」
+#### 🟢 「８」
 
-- [Full Name](https://www.google.com) `[S.E. Internship Member of LTI, 2024/2025]`
+- [Rafi Rizal Ramdani]([https://www.google.com](https://github.com/GAROXSAMAO)) `[S.E. Internship Member of LTI, 2024/2025]`
 
-> [DESCRIPTION]  
->> `Project Link:` [Project Title](https://www.google.com)
+> [A PyQt6-based GUI application that includes a calendar widget, time display, and functional buttons for interaction. This project is designed to demonstrate the capabilities of PyQt6 in building interactive and user-friendly desktop applications.]  
+>> `Project Link:` [Rafi's Project]([https://www.google.com](https://github.com/GAROXSAMAO/MyGUIProject))
 
 #### 🟡 「９」
 

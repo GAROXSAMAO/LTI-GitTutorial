@@ -102,7 +102,7 @@ Here, you can insert your repository to your own GitHub account, or you can push
 
 ```【 Project No. ２ 】```
 
-> Darla's LTI's Internship Project, Progress Report 
+> Darla's LTI's Internship Project, Progress Report #2  
 >> `Project Link:` [Picture Color Customization](https://github.com/lyca-byte/LTI-GitTutorial/tree/master/Project_Darla/Picture%20Color%20Customization)
 
 #### 🟡 「８」

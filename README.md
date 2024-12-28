@@ -95,10 +95,14 @@ Here, you can insert your repository to your own GitHub account, or you can push
 
 - [Darla Gempita Darris Purba](https://github.com/lyca-byte) `[S.E. Internship Member of LTI, 2024/2025]`
 
-> Project 1
+```【 Project No. 1 】```
+
+> Darla's LTI's Internship Project, Progress Report #2  
 >> `Project Link:` [Password Generator](https://github.com/lyca-byte/LTI-GitTutorial/tree/master/Project_Darla/Generator%20Password)
 
-> Project 2
+```【 Project No. ２ 】```
+
+> Darla's LTI's Internship Project, Progress Report 
 >> `Project Link:` [Picture Color Customization](https://github.com/lyca-byte/LTI-GitTutorial/tree/master/Project_Darla/Picture%20Color%20Customization)
 
 #### 🟡 「８」

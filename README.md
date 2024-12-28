@@ -107,10 +107,10 @@ Here, you can insert your repository to your own GitHub account, or you can push
 
 #### 🟢 「８」
 
-- [Rafi Rizal Ramdani]([https://www.google.com](https://github.com/GAROXSAMAO)) `[S.E. Internship Member of LTI, 2024/2025]`
+- [Rafi Rizal Ramdani](https://github.com/GAROXSAMAO) `[S.E. Internship Member of LTI, 2024/2025]`
 
 > [A PyQt6-based GUI application that includes a calendar widget, time display, and functional buttons for interaction. This project is designed to demonstrate the capabilities of PyQt6 in building interactive and user-friendly desktop applications.]  
->> `Project Link:` [Rafi's Project]([https://www.google.com](https://github.com/GAROXSAMAO/MyGUIProject))
+>> `Project Link:` [Rafi's Project](https://github.com/GAROXSAMAO/MyGUIProject)
 
 #### 🟡 「９」
 

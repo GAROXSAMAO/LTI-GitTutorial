@@ -1,1 +1,2 @@
-openbb>=4.3
+# OpenBB installed from source (https://github.com/OpenBB-finance/OpenBB)
+openbb[routers] @ git+https://github.com/OpenBB-finance/OpenBB.git#subdirectory=openbb_platform

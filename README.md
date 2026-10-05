@@ -163,4 +163,10 @@ Here, you can insert your repository to your own GitHub account, or you can push
 
 ---
 
+### Extras
+
+- [Project_OpenBB](Project_OpenBB) — example of plugging in [OpenBB](https://github.com/OpenBB-finance/OpenBB) to fetch stock data.
+
+---
+
 Copyright ⓒ LumiaTech Innovations, 2024.
